@@ -1,3 +1,3 @@
 # AutoML
 
-`export DATABRICKS_TOKEN=dapi40c4c40463d1bcc3a5a331b8c4422c9d-3`
+`export DATABRICKS_TOKEN=<token>
