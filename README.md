@@ -1,3 +1,3 @@
 # AutoML
 
-`export DATABRICKS_TOKEN=<token>
+`export DATABRICKS_TOKEN=<token>`
